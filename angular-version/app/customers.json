@@ -1,0 +1,29 @@
+{
+	"customers":[
+		{
+			"name":"Anderson Jimenez",
+			"city":"Loja",
+			"joined":"2015-01-01"
+		},
+		{
+			"name":"Jose Quichi",
+			"city":"Catacocha",
+			"joined":"2014-04-04"
+		},
+		{
+			"name":"Roberto Paredes",
+			"city":"Loja",
+			"joined":"2015-04-15"
+		},
+		{
+			"name":"Stalyn Tapia",
+			"city":"Loja",
+			"joined":"2010-01-01"
+		},
+		{
+			"name":"Ozzy Osbourne",
+			"city":"London",
+			"joined":"1970-12-31"
+		}
+	]
+}
